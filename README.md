@@ -1,2 +1,2 @@
 # CoolRepo
-hacktoberfest is very veriy cool
+hacktoberfest is veryii veriy cool
