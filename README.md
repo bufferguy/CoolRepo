@@ -1,2 +1,2 @@
 # CoolRepo
-hacktoberfest
+hacktoberfest is cool
